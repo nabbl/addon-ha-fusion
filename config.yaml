@@ -35,4 +35,4 @@ ports:
   8099/tcp: null
 
 # docker hub
-image: nabbl/addon-ha-fusion-{arch}
+image: nabblschnur/addon-ha-fusion-{arch}
